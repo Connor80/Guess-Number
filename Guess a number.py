@@ -40,8 +40,3 @@ while guess != answer:
 #add the correct guess to the guess number.    
 value += 1
 print ("Correct! " + str(guess) + " was my number. It took you " + str(value) + " tries.")
-        
-
-
-#  cd Desktop/Python
-
